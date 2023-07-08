@@ -1,5 +1,5 @@
-import 'package:counter_people/pages/HomePage.dart';
 import 'package:flutter/material.dart';
+import 'package:foodhub/pages/HomePage.dart';
 
 void main() {
   runApp(const MyApp());
